@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-{{-- <div class="container">
+<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -19,8 +19,8 @@
             </div>
         </div>
     </div>
-</div> --}}
-<div class="page-inner mt--5">
+</div>
+{{-- <div class="page-inner mt--5">
     <div class="row mt--2">
         <div class="col-md-6">
             <div class="card full-height">
@@ -618,5 +618,5 @@
 			lineColor: '#ffa534',
 			fillColor: 'rgba(255, 165, 52, .14)'
 		});
-	</script>
+	</script> --}}
 @endsection
